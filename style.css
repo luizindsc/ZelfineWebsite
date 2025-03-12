@@ -18,4 +18,39 @@ li, a, button {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo {
+    cursor: pointer;
+    width: 162px;
+    height: 69px;
+}
+
+.navLinks {
+    list-style: none;
+}
+
+.navLinks li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navLinks li a{
+    transition: all 0.3s ease 0s;
+}
+
+
+.navLinks li a:hover {
+    color: #6735D4;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: #6735D4;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
 }
