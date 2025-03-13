@@ -59,6 +59,24 @@ button:hover {
     background-color: #1b054b;
 }
 
-p {
+.about {
+    padding-left: 10%;
+    width: 844px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.about h1 {
+    font-size: 64px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.about p {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.about button {
     
 }
