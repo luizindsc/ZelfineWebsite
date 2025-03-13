@@ -47,7 +47,7 @@ header {
 }
 
 button {
-    padding: 9px 25px;
+    padding: 12px 25px;
     background-color: #6735D4;
     border: none;
     border-radius: 50px;
@@ -60,8 +60,9 @@ button:hover {
 }
 
 .about {
-    padding-left: 10%;
-    width: 844px;
+    padding: 30px 10%;  
+    position: absolute;
+    align-content: space;
     color: white;
     font-family: "Montserrat", sans-serif;
 }
@@ -73,10 +74,11 @@ button:hover {
 }
 
 .about p {
+    font-size: 20px;
     padding-bottom: 30px;
     padding-top: 30px;
 }
 
-.about button {
-    
+.aboutLogo{
+    float: right;
 }
