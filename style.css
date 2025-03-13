@@ -74,15 +74,23 @@ button:hover {
 }
 
 .about p {
-    font-size: 20px;
+    font-size: 25px;
     text-align: justify;
-    padding-bottom: 30px;
+    padding-bottom: 55px;
     padding-top: 30px;
-    inline-size: 50%;
+    inline-size: 65%;
 }
 
 .aboutLogo{
     float: right;
-    padding-left: 30px;
+    inline-size: 50%;
+    width: 391px;
+    height: 391px;
     margin-top: -90px;
+}
+
+.about button {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 8px;
 }
