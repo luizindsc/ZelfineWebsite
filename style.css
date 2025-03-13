@@ -69,16 +69,20 @@ button:hover {
 
 .about h1 {
     font-size: 64px;
-    padding-bottom: 30px;
+    padding-bottom: 5px;
     padding-top: 30px;
 }
 
 .about p {
     font-size: 20px;
+    text-align: justify;
     padding-bottom: 30px;
     padding-top: 30px;
+    inline-size: 50%;
 }
 
 .aboutLogo{
     float: right;
+    padding-left: 30px;
+    margin-top: -90px;
 }
