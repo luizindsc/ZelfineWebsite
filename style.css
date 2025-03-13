@@ -54,3 +54,11 @@ button {
     cursor: pointer;
     transition: all 0.3s ease 0s;
 }
+
+button:hover {
+    background-color: #1b054b;
+}
+
+p {
+    
+}
