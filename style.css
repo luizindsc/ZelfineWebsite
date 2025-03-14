@@ -102,6 +102,9 @@ button:hover {
 }
 
 .projects img {
-    display: flex;
-    align-items: space-between;
+    box-sizing: border-box;
+    padding: 45px;
+    width: 400px;
+    height: 400px;
+    object-fit: fill;
 }
