@@ -94,3 +94,8 @@ button:hover {
     padding-top: 20px;
     border-radius: 8px;
 }
+
+.projects h1 {
+    text-align: center;
+    align-items: center;
+}
