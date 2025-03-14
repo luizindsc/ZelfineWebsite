@@ -100,3 +100,8 @@ button:hover {
     text-align: center;
     align-items: center;
 }
+
+.projects img {
+    display: flex;
+    align-items: space-between;
+}
