@@ -96,6 +96,7 @@ button:hover {
 }
 
 .projects h1 {
+    padding-top: 85px;
     text-align: center;
     align-items: center;
 }
