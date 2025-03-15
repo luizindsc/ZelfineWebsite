@@ -59,6 +59,27 @@ button:hover {
     background-color: #1b054b;
 }
 
+.social {
+    display: flex;
+    justify-content: left;   
+    gap: 45px;
+
+}
+.Wrapper {
+    text-align: center;
+    cursor: pointer;
+    object-fit: cover;
+    width: 76px;
+}
+
+.Patreon {
+    text-align: center;
+    cursor: pointer;
+    object-fit: cover;
+    width: 76px;
+}
+
+
 .about {
     padding: 30px 10%;  
     position: absolute;
