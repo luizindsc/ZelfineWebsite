@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -116,7 +121,7 @@ button:hover {
     border-radius: 8px;
 }
 
-.projects {
+#projects {
     text-align: center;
     margin-top: 80px;
 }
@@ -169,7 +174,7 @@ button:hover {
     display: none;
 }
 
-.Contact {
+#Contact {
     margin-top: 400px;
 }
 
@@ -207,4 +212,12 @@ button:hover {
     display: block;
     border: 0;
     width: 400px;
+}
+
+a img {
+    transition: transform 0.3s ease;
+}
+
+a:hover img {
+    transform: scale(1.05);
 }
