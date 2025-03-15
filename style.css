@@ -169,16 +169,8 @@ button:hover {
     display: none;
 }
 
-.banner {
-    margin-top: 400px;
-    object-fit: cover;
-    width: 1300px;
-    height: 700px;
-}
-
-
 .Contact {
-    margin-top: 80px;
+    margin-top: 400px;
 }
 
 
