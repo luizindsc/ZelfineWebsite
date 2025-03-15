@@ -218,3 +218,6 @@ a img {
     transition: transform 0.3s ease;
 }
 
+a:hover img {
+    transform: scale(1.05);
+}
