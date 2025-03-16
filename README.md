@@ -49,22 +49,3 @@ Showcase Zelfine's products or services.
 Provide contact information and support.
 
 Share updates, blogs, or news (if applicable).
-
-[Add any other specific use cases.]
-
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository.
-
-Create a new branch for your feature or bugfix.
-
-Commit your changes.
-
-Push your branch and submit a pull request.
-
-<<<<<<< HEAD
-Please ensure your code follows the project's coding standards and includes appropriate documentation.
-=======
-Please ensure your code follows the project's coding standards and includes appropriate documentation
->>>>>>> c2811ab1e3b438e57e944292db497d20eed96c3c
