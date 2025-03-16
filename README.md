@@ -67,4 +67,4 @@ Commit your changes.
 
 Push your branch and submit a pull request.
 
-Please ensure your code follows the project's coding standards and includes appropriate documentation
+Please ensure your code follows the project's coding standards and includes appropriate documentation.
