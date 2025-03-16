@@ -22,25 +22,21 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 ```console
-Copy
 git clone https://github.com/your-username/zelfine-website.git
 Navigate to the project directory:
 ````
 
 ```console
-Copy
 cd zelfine-website
 Install dependencies (if applicable):
 ```
 
 ```console
-Copy
 npm install
 Start the development server:
 ```
 
 ```console
-Copy
 npm run dev
 Open your browser and visit http://localhost:3000 to view the website.
 ```
@@ -67,4 +63,8 @@ Commit your changes.
 
 Push your branch and submit a pull request.
 
+<<<<<<< HEAD
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
+=======
+Please ensure your code follows the project's coding standards and includes appropriate documentation
+>>>>>>> c2811ab1e3b438e57e944292db497d20eed96c3c
